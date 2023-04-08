@@ -6,6 +6,7 @@ set number
 " use spaces instead of tabs
 set expandtab
 set tabstop=4
+set shiftwidth=4
 
 
 " set encoding
